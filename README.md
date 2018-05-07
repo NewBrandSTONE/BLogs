@@ -19,3 +19,4 @@
 
 ## [SpringBoot相关](https://github.com/NewBrandSTONE/BLogs/labels/Spring%20Boot)
 1. [入门-springboot-helloworld](https://github.com/NewBrandSTONE/BLogs/issues/10)
+2. [入门-HelloWorld-场景启动器分析](https://github.com/NewBrandSTONE/BLogs/issues/11)

@@ -20,3 +20,9 @@
 ## [SpringBoot相关](https://github.com/NewBrandSTONE/BLogs/labels/Spring%20Boot)
 1. [入门-springboot-helloworld](https://github.com/NewBrandSTONE/BLogs/issues/10)
 2. [入门-HelloWorld-场景启动器分析](https://github.com/NewBrandSTONE/BLogs/issues/11)
+
+## [极客时间-Java核心技术36讲阅读笔记]()
+1. [强引用、软引用、弱引用、幻象引用的区别]()
+
+## [Guns项目分析](https://github.com/NewBrandSTONE/BLogs/labels/Guns)
+1. [日志记录模块分析](https://github.com/NewBrandSTONE/BLogs/issues/13)

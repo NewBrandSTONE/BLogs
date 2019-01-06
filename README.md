@@ -36,5 +36,7 @@
 
 1. [Shiro基础](https://github.com/NewBrandSTONE/BLogs/issues/14)
 2. [Spring与Shiro的整合](https://github.com/NewBrandSTONE/BLogs/issues/15)
-
-7. [Shiro认证思路分析](https://github.com/NewBrandSTONE/BLogs/issues/16)
+3. [Shiro认证思路分析](https://github.com/NewBrandSTONE/BLogs/issues/16)
+4. [Shiro授权过程](https://github.com/NewBrandSTONE/BLogs/issues/17)
+5. [Shiro自定义Realm分析](https://github.com/NewBrandSTONE/BLogs/issues/18)
+6. [Shrio与Spring整合](https://github.com/NewBrandSTONE/BLogs/issues/15)

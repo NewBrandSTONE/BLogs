@@ -43,3 +43,9 @@
 
 ## [个人总结]()
 1. [2019年中总结](https://github.com/NewBrandSTONE/BLogs/issues/19)
+
+## [设计模式之美 - 学习笔记]（https://github.com/NewBrandSTONE/BLogs/labels/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%BE%8E）
+1. [27 - 什么情况下重构？到底重构什么？又该如何重构？](https://github.com/NewBrandSTONE/BLogs/issues/20)
+2. [28 - 为了保证重构质量，有哪些非常能落地的技术手段](https://github.com/NewBrandSTONE/BLogs/issues/21)
+3. [29 - 什么是代码的可测试性，如何写出可测试的代码](https://github.com/NewBrandSTONE/BLogs/issues/22)
+4. [30 - 如何通过封装、抽象、模块化、中间层等解耦代码](https://github.com/NewBrandSTONE/BLogs/issues/23)

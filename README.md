@@ -52,3 +52,4 @@
 31. [为什么基于接口而非实现编程？有必要为每个类都定义接口吗？](https://github.com/NewBrandSTONE/BLogs/issues/24)
 32. [让你最快速地改善代码质量的 20 条编程规范（上）](https://github.com/NewBrandSTONE/BLogs/issues/25)
 33. [让你最快速地改善代码质量的 20 条编程规范（中）](https://github.com/NewBrandSTONE/BLogs/issues/26)
+34. [快速改善代码质量的 20 条编程规范 下](https://github.com/NewBrandSTONE/BLogs/issues/27)
